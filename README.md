@@ -1,0 +1,1 @@
+使用python调用pn532设备读取banapass卡相关信息
